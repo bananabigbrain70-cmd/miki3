@@ -1,0 +1,24 @@
+Upload everything in this folder to GitHub.
+
+Your GitHub repo should show:
+
+app/
+package.json
+next.config.js
+README.md
+.env.example
+
+Do NOT upload only the files inside app.
+Do NOT move page.jsx, layout.jsx, globals.css, or route.js to the root.
+They must stay inside the app folder.
+
+Correct structure:
+
+app/layout.jsx
+app/page.jsx
+app/globals.css
+app/api/reservation/route.js
+package.json
+next.config.js
+README.md
+.env.example
